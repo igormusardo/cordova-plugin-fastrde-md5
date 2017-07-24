@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-fastrde-md5",
+  "version": "1.0.0",
+  "description": "MD5 calculation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playsignage/cordova-plugin-fastrde-md5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playsignage/cordova-plugin-fastrde-md5/issues"
+  },
+  "homepage": "https://github.com/playsignage/cordova-plugin-fastrde-md5#readme"
+}
